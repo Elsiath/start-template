@@ -110,3 +110,6 @@ $RECYCLE.BIN/
 
 # Phpstorm stuff
 .idea/
+
+# Build version
+build/
